@@ -1,4 +1,4 @@
-# Ayoola-MEGR2156--portfolio
+#  Kiishi Ayoola -- MEGR 2156 
 This respository is an MkDOcs site(same engine Fab Academy uses) with the Analyze/decide/ communicate framework built into every assignment page.the redered site- with the left hand navigation to every assignment- lives in docs/;this README is just for people working with the repo itself.
 ## Don't do, possible save for later. Preview local
 ```bash
