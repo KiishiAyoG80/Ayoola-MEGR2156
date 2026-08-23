@@ -1,5 +1,5 @@
-# Ayoola-MEGR2156--portofolio
-This respository is an mkDOcs site(same engine Fab Academy uses) with the Analyze/decide/ communicate framework built into every assignment page.the redered site- with the left hand navigation to every assignment- lives in docs/;this README is just for people working with the repo itself.
+# Ayoola-MEGR2156--portfolio
+This respository is an MkDOcs site(same engine Fab Academy uses) with the Analyze/decide/ communicate framework built into every assignment page.the redered site- with the left hand navigation to every assignment- lives in docs/;this README is just for people working with the repo itself.
 ## Don't do, possible save for later. Preview local
 ```bash
 pip install -r requirements.txt
