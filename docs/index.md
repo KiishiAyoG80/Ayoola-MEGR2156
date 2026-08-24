@@ -1,4 +1,4 @@
-# Kiishi Ayoola – 2156 Portfolio
+# Kiishi Ayoola – MEGR 2156 Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
